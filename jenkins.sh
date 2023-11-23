@@ -1,3 +1,8 @@
+#In summary, sudo apt update -y updates the local package index, and sudo apt upgrade -y installs the latest versions of the installed packages. 
+#It's a good practice to run sudo apt update before sudo apt upgrade to ensure that your system has the latest information about available packages.
+
+
+
 #!/bin/bash
 
 sudo apt update -y
